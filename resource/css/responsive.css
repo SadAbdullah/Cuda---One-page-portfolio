@@ -1,0 +1,129 @@
+@media only screen and (max-width: 1199px){
+    .row {
+        max-width: 90%;
+    }
+
+    .hero-text-box {
+        width: 90%;
+    }
+
+    .main-nav {
+        display: none;
+    }
+
+    html {
+        font-size: 57.5%;
+    }
+
+    .client-photo {
+        width: 100%;
+        float: none;
+        text-align: center;
+    }
+
+    .client-review {
+        width: 100%;
+        text-align: center;
+    }
+
+}
+
+
+@media only screen and (max-width: 1199px){
+    .mobile-menu span {
+        display: block;
+    }
+
+    .sticky .logo {
+        margin-top: 1.1rem;
+    }
+}
+
+
+@media only screen and (max-width: 980px){
+    .row {
+        width: 85%;
+    }
+
+    .span_1_of_4 {
+        width: 49.2%;
+    }
+
+    .span_1_of_4:nth-child(3){
+        margin-left: 0;
+    }
+
+    html {
+        font-size: 62.5%;
+    }
+
+    .box p {
+        width: 95%;
+        margin: auto;
+    }
+
+    .contact-section form {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .footer-section li {
+        margin: .5rem 1.2rem;
+    }
+}
+    
+
+
+
+
+@media only screen and (max-width: 768px){
+    .row {
+        width: 95%;
+    }
+
+    .little-description {
+        width: 90%;
+        margin-left: 0;
+        margin: auto;
+    }
+
+    h1 {
+        font-size: 3.5rem;
+    }
+
+    .span_1_of_2 {
+        width: 100%;
+    }
+
+    .span_1_of_2:last-child {
+        margin-left: 0;
+    }
+
+    .portfolio-image {
+        height: auto;
+    }
+
+}
+
+
+@media only screen and (max-width: 480px){
+    .row {
+        width: 100%;
+    }
+
+    .span_1_of_4 {
+        width: 100%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
